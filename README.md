@@ -50,5 +50,7 @@ Strategy Pattern: We use different strategies for booking and managing room stat
 Singleton Pattern: This ensures that there’s only one instance of the office configuration, keeping everything organized and unified.
 The Smart Office application transforms the way you manage meeting spaces in your workplace. It’s not just about booking rooms; it’s about creating a smarter, more efficient work environment. With the integration of advanced design principles and patterns, this project stands out as a scalable and user-friendly solution for modern office management. Join us in making your office smarter today!
 # Output 
-"C:\Users\hp\Pictures\Screenshots\Screenshot 2024-09-24 002546.png"
-"C:\Users\hp\Pictures\Screenshots\Screenshot 2024-09-24 004339.png"
+![WhatsApp Image 2024-09-25 at 22 32 57_6d4e47f3](https://github.com/user-attachments/assets/3e59aa5a-4f1a-4c04-ba37-ec9050fc0fa9)
+
+![WhatsApp Image 2024-09-25 at 22 33 43_2beb2745](https://github.com/user-attachments/assets/ac553d28-db23-4849-9515-723ac0b5abe3)
+
