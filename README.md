@@ -2,21 +2,36 @@
 ## Task-1 
  ## Behavioural Design 
  Case:1 Employment Payroll- Strategy Pattern is used to handle different payroll calculations based on employee types (hourly and salaried). The payroll system can switch between different pay calculation strategies without altering the core logic. This allows the program to dynamically apply the appropriate strategy, making it flexible to handle various payroll structures.
+ ## Output
+ ![WhatsApp Image 2024-09-25 at 22 52 18_2660bea5](https://github.com/user-attachments/assets/cf5d1c23-8058-456c-809b-87afaca0ae2e)
 
- 
- Case:2 Faculty Sehedule Management-Observer Pattern is applied in the Faculty Schedule Management system to notify faculty members of schedule updates. Faculty members (observers) are attached to the schedule system (subject) and automatically receive updates whenever the schedule changes. This keeps the system well-organized and ensures that all faculty members stay informed without needing to manually update each one.
+
+Case:2 Faculty Sehedule Management-Observer Pattern is applied in the Faculty Schedule Management system to notify faculty members of schedule updates. Faculty members (observers) are attached to the schedule system (subject) and automatically receive updates whenever the schedule changes. This keeps the system well-organized and ensures that all faculty members stay informed without needing to manually update each one.
+## Output
+![WhatsApp Image 2024-09-25 at 22 57 06_ee4556e8](https://github.com/user-attachments/assets/c5bb91d9-eb5b-4d82-af38-82db439e11b2)
+
 
  ## Creational Design
  Case:1 Smart Metro-Singleton Pattern ensures that we have just one instance of the metro schedule system running at all times. This way, everyone accessing the metro timings gets the same, up-to-date information, helping us avoid any mix-ups or duplicate schedules. It keeps everything organized and reliable for all users.
+ ## Output
+ ![WhatsApp Image 2024-09-25 at 23 11 08_a6d1ea30](https://github.com/user-attachments/assets/bfb0287e-20c4-435e-9f46-8621edc4422b)
 
- 
-  Case:2 Smart Parking - Factory Pattern makes creating different types of parking slots a breeze. In this project, we use it to easily generate various parking options, like regular, VIP, or electric vehicle spaces. This approach lets the parking system adapt to various vehicle needs without complicating the underlying code, making it flexible and user-friendly.
+
+ Case:2 Smart Parking - Factory Pattern makes creating different types of parking slots a breeze. In this project, we use it to easily generate various parking options, like regular, VIP, or electric vehicle spaces. This approach lets the parking system adapt to various vehicle needs without complicating the underlying code, making it flexible and user-friendly.
+  ## Output
+  ![WhatsApp Image 2024-09-25 at 23 40 20_f479a384](https://github.com/user-attachments/assets/6f962e2a-119d-4f43-bfe0-3390880b581e)
+  
 
  ## Structural Design
 Case:1 SMS to Gmail- The Adapter Pattern allows two incompatible systems to work together. In this project, we adapt an existing SMS service to also support an email service without changing the SMS code. The adapter implements the same interface (MessageSender), enabling us to use the email service where the SMS service was originally expected, making both systems work seamlessly together.
+## Output
+![WhatsApp Image 2024-09-25 at 22 44 38_0c9b1389](https://github.com/user-attachments/assets/fbb099c6-3b0e-4d6c-865c-ea2f04c463ec)
 
 
  Case:2 Coffee Topings- The Decorator Pattern allows you to dynamically add responsibilities to an object. This project uses the decorator pattern to add toppings like milk and chocolate to a basic coffee. The core object remains unchanged, but additional functionality is "decorated" onto it at runtime.
+ ## Output
+ ![WhatsApp Image 2024-09-25 at 22 40 52_e567bad1](https://github.com/user-attachments/assets/c114313b-2c47-406c-b619-7be8f565da5d)
+
 
 # Commands to run the code
 git clone <repository-url>
