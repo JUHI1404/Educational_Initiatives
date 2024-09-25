@@ -49,3 +49,6 @@ Observer Pattern: This pattern keeps everyone in the loop by updating room featu
 Strategy Pattern: We use different strategies for booking and managing room states, tailoring the experience to user actions.
 Singleton Pattern: This ensures that there’s only one instance of the office configuration, keeping everything organized and unified.
 The Smart Office application transforms the way you manage meeting spaces in your workplace. It’s not just about booking rooms; it’s about creating a smarter, more efficient work environment. With the integration of advanced design principles and patterns, this project stands out as a scalable and user-friendly solution for modern office management. Join us in making your office smarter today!
+# Output 
+"C:\Users\hp\Pictures\Screenshots\Screenshot 2024-09-24 002546.png"
+"C:\Users\hp\Pictures\Screenshots\Screenshot 2024-09-24 004339.png"
